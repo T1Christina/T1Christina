@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @T1Christina
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning HTML/CSS
+- 👋 Hi, I’m Christina
+- 👀 I’m interested in web-development
+- 🌱 I’m currently learning frontend
 - 💞️ I’m looking to collaborate with a company to effectively study this specialty
 - 📫 You can contact me by writing me an email: christinaguskovafrontend@gmail.com
 
